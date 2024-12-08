@@ -8,6 +8,7 @@ public class JavaFullStackApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaFullStackApplication.class, args);
+		System.out.println("welcome to JFSD");
 	}
 
 }
