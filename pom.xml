@@ -15,7 +15,7 @@
     <name>JAVA_FULL_STACK</name>
     <description>Demo project for Spring Boot</description>
     <properties>
-        <java.version>21</java.version> <!-- Ensure this matches your Java version -->
+        <java.version>17</java.version> <!-- Ensure this matches your Java version -->
     </properties>
     <dependencies>
         <!-- Spring Data JPA -->
